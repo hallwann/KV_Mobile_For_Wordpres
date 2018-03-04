@@ -89,7 +89,7 @@ $(document).ready(function(){
 		<div class="wrapper">
 			<h1>KV Mobile For Wordpress by howwant.com</h1>
 			<!-- Quick search box -->
-			<form action="http://search.howwant.com/" method="get"><input class="" type="text" id="q" name="query" /><input type="hidden" name="type" value="Web" id="type"/></form>
+			<form action="http://search.howwant.com/" method="get"><input class="" type="text" id="q" name="q" /><input type="hidden" name="type" value="Web" id="type"/></form>
 		</div>
 	</div>
 	<!-- End of Page title -->
