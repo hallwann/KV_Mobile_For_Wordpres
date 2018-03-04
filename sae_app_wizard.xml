@@ -1,0 +1,27 @@
+﻿<appwizard> 
+	<introduction> 
+		<name>KV Mobile For Wordpress by howwant.coml</name> 
+		<author>howwant.com</author> 
+		<icon>-</icon> 
+		<homepage>http://www.howwant.com/</homepage> 
+		<description> 
+		<![CDATA[-]]>
+		</description> 
+	</introduction> 
+	<platform> 
+		<services>
+			<service>KVDB</service> 
+		</services> 
+		<appconfig> 
+			<tpl> 
+            <![CDATA[
+name: <<appname>>
+version: <<version>>
+            ]]>
+			</tpl> 
+		</appconfig> 
+	</platform> 
+	<code> 
+	<initScript>admin/install.php</initScript> 
+	</code> 
+</appwizard>
