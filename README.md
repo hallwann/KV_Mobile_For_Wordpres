@@ -16,4 +16,4 @@ step 4. Enjoy it!
 v1.0 Language only support Simplified Chinese.
 ![](https://github.com/howwant/KV_Mobile_For_Wordpres/blob/master/Thumbnail_install.jpg)
 
-You can try at [](http://www.howwant.com.cn/apps/KV_Mobile_For_Wordpres)
+You can try at [HOWWANT apps](http://www.howwant.com.cn/apps/KV_Mobile_For_Wordpres)
