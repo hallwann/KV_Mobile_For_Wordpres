@@ -1,3 +1,4 @@
+![](https://github.com/howwant/KV_Mobile_For_Wordpres/blob/master/Thumbnail.png)
 # KV_Mobile_For_Wordpres(php)
 
 Use SAE key-value database to built a mobile site for your wordpress, and it won't have any impact on your program
@@ -13,3 +14,6 @@ step 3. Click url http://your app adress/ to install.
 step 4. Enjoy it!
 
 v1.0 Language only support Simplified Chinese.
+![](https://github.com/howwant/KV_Mobile_For_Wordpres/blob/master/Thumbnail_install.jpg)
+
+You can try at [](http://www.howwant.com.cn/apps/KV_Mobile_For_Wordpres)
